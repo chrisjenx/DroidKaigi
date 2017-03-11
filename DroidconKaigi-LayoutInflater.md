@@ -1062,7 +1062,7 @@ Enabled:
 ## ViewPump & Calligraphy
 
 - Interceptor based View Inflation. (Based on Square OKHttp Interceptors)
-- James Barr, Twitter: @jbarr
+- James Barr, Twitter: @jbarr21
 - Took Calligraphy and turned it into ViewPump
 - See [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
 - See [InflationX/Calligraphy](https://github.com/InflationX/Calligraphy)
@@ -1371,10 +1371,10 @@ public InflateResult intercept(Chain chain) {
 ## That's all
 
  Chris Jenkins - @chrisjenx
- James Bar - @jbar
+ James Barr - @jbarr21
 
- Calligraphy2 - `github.com/chrisjenx/Calligraphy`
- ViewPump & Calligraphy3 - `github.com/InflationX`
+ ViewPump - [`github.com/InflationX/ViewPump`](https://github.com/InflationX/ViewPump)
+ Calligraphy - [`github.com/InflationX/Calligraphy`](https://github.com/InflationX/Calligraphy)
 
 ### Questions?
 
